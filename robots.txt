@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rldstudio.github.io/rldstudio-sitemap/sitemap.xml
